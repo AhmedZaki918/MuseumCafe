@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView sss;
     TextView ASASD;
+    TextView A3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
