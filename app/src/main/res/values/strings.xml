@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Museum Cafe</string>
+    <string name="info">For something quick and easy, or a brief intermission from the feast of art below, head to our spiffy little cafe at the museum’s entrance.</string>
+    <string name="website">Mail: thesource@mona.net.au</string>
+    <string name="openingHours">Opening Hours: wednesday - Monday, 10am - 5pm</string>
+    <string name="contact">Call: +61(3)62779904</string>
+
+</resources>
